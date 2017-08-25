@@ -1,0 +1,4 @@
+s
+Adding version
+ to check staging the file
+this to check difference b/w commit & add
